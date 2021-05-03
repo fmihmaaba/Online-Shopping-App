@@ -48,6 +48,24 @@ namespace OnlineShoppingApp
             Console.Write("Enter your E-mail: ");
 28
             Email = Console.ReadLine();
+
+    {
+        static void Main(string[] args)
+        {
+        List<string> mouses = new List<string>() { Razer Viper Mini, ZygenNP - 01 };
+        items.add(Logitech G Pro X SuperLight);
+        items.add(Glorious Model O);
+        items.add(Logitech G304);
+
+        Console.WriteLine("What kind of Mouse do you want?");
+        Console.WriteLine(mouses[Razer Viper Mini]);
+        Console.WriteLine(mouses[ZygenNP - 01]);
+        Console.WriteLine(mouses[Logitech G Pro X SuperLight]);
+        Console.WriteLine(mouses[Glorious Model O]);
+        Console.WriteLine(mouses[Logitech G304]);
+        }
+    }
+
 29
  
 30
